@@ -1,1 +1,1 @@
-GuessTheWorld
+GuessTheWord
